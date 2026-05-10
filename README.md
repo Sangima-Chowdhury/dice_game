@@ -17,5 +17,6 @@ A simple Python command-line dice rolling game.
 ## What I Learned
 This project helped me practise Python fundamentals including loops, conditionals, user input, random number generation, and simple program flow.
 
-## GitHub
-https://github.com/Sangima-Chowdhury/dice_game
+<img width="1352" height="878" alt="Screenshot 2026-05-10 at 11 52 34" src="https://github.com/user-attachments/assets/e275cbcf-b25c-4a61-ab44-101a89c61214" />
+
+
